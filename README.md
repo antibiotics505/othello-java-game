@@ -26,7 +26,7 @@
 
 # Project Information
 
-Course: ICS3U  
+Course: ICS4U  
 Project: Final Programming Project  
 Author: Isaac Xu  
 
