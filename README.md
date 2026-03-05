@@ -3,10 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Project](https://img.shields.io/badge/Project-ICS4U-green)
 
----
-
-# Game Screenshot
-
 ![Othello Game Screenshot](result.png)
 
 ---
@@ -99,14 +95,16 @@ The project is divided into several Java classes.
 # How to Run the Program
 
 Step 1: Compile the program
-javac *.java
 
+```bash
+javac *.java
+```
 
 Step 2: Run the game
 
-
+```bash
 java Othello
-
+```
 
 ---
 
