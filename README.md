@@ -1,7 +1,7 @@
 # Othello Game (Java)
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
-![Project](https://img.shields.io/badge/Project-ICS3U-green)
+![Project](https://img.shields.io/badge/Project-ICS4U-green)
 
 ---
 
